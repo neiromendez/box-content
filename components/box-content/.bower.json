@@ -1,0 +1,36 @@
+{
+  "name": "box-content",
+  "authors": [
+    "neiro mendez alne1990@hotmail.com"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "index.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/neiromendez/box-content/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "8604e5f1e0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8604e5f1e0c9b5822533f375dbfb1eed204212ff"
+  },
+  "_source": "git@github.com:neiromendez/box-content.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:neiromendez/box-content",
+  "_direct": true
+}

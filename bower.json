@@ -2,7 +2,7 @@
   "name": "box-content",
   "version": "1.0.7",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "neiro mendez alne1990@hotmail.com"
   ],
   "description": "An element providing a solution to no problem in particular.",
   "keywords": [
@@ -10,9 +10,9 @@
     "polymer",
     "seed"
   ],
-  "main": "box-content.html",
+  "main": "index.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "homepage": "https://github.com/neiromendez/box-content/",
   "ignore": [
     "/.*",
     "/test/"
@@ -21,6 +21,7 @@
     "polymer": "Polymer/polymer#^1.2.0"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
   }
 }

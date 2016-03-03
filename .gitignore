@@ -1,0 +1,6 @@
+bower_components
+.idea
+.travis.yml
+.yo-rc.json
+hero.svg
+CONTRIBUTING.md
